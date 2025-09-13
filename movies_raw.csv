@@ -1,0 +1,51 @@
+title,genres,vote_average,vote_count,popularity,release_date,_id
+Inception,"['Action', 'Sci-Fi']",8.8,21000,95.0,2010-07-16,68c5ef8574dae5ce78db6072
+The Dark Knight,"['Action', 'Crime', 'Drama']",9.0,23000,98.0,2008-07-18,68c5ef8574dae5ce78db6073
+Interstellar,"['Adventure', 'Drama', 'Sci-Fi']",8.6,17000,90.0,2014-11-07,68c5ef8574dae5ce78db6074
+,['Thriller'],7.5,12000,85.0,2019-01-01,68c5ef8574dae5ce78db6075
+Parasite,[],8.5,11000,85.0,2019-05-30,68c5ef8574dae5ce78db6076
+Avengers: Endgame,"['Action', 'Adventure']",8.4,25000,120.0,2019-04-26,68c5ef8574dae5ce78db6077
+Titanic,"['Drama', 'Romance']",7.8,20000,80.0,1997-12-19,68c5ef8574dae5ce78db6078
+Joker,"['Crime', 'Drama', 'Thriller']",8.5,19000,95.0,2019-10-04,68c5ef8574dae5ce78db6079
+The Godfather,"['Crime', 'Drama']",9.2,16000,70.0,1972-03-24,68c5ef8574dae5ce78db607a
+Pulp Fiction,"['Crime', 'Drama']",8.9,15000,65.0,1994-10-14,68c5ef8574dae5ce78db607b
+The Shawshank Redemption,['Drama'],9.3,17000,60.0,1994-09-23,68c5ef8574dae5ce78db607c
+The Matrix,"['Action', 'Sci-Fi']",8.7,14000,88.0,1999-03-31,68c5ef8574dae5ce78db607d
+Fight Club,['Drama'],8.8,14500,70.0,1999-10-15,68c5ef8574dae5ce78db607e
+Forrest Gump,"['Drama', 'Romance']",8.8,16000,75.0,1994-07-06,68c5ef8574dae5ce78db607f
+Gladiator,"['Action', 'Adventure', 'Drama']",8.5,14000,85.0,2000-05-05,68c5ef8574dae5ce78db6080
+Avengers: Infinity War,"['Action', 'Adventure']",8.4,22000,115.0,2018-04-27,68c5ef8574dae5ce78db6081
+The Lion King,"['Animation', 'Adventure', 'Drama']",8.5,18000,90.0,1994-06-24,68c5ef8574dae5ce78db6082
+The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']",8.6,13000,68.0,1991-02-14,68c5ef8574dae5ce78db6083
+Schindler's List,"['Biography', 'Drama', 'History']",8.9,11000,55.0,1993-12-15,68c5ef8574dae5ce78db6084
+Toy Story,"['Animation', 'Adventure', 'Comedy']",8.3,12500,80.0,1995-11-22,68c5ef8574dae5ce78db6085
+Coco,"['Animation', 'Adventure', 'Family']",8.4,10500,75.0,2017-11-22,68c5ef8574dae5ce78db6086
+Moana,"['Animation', 'Adventure', 'Comedy']",7.6,9500,70.0,2016-11-23,68c5ef8574dae5ce78db6087
+Frozen,"['Animation', 'Adventure', 'Comedy']",7.4,10000,85.0,2013-11-27,68c5ef8574dae5ce78db6088
+Black Panther,"['Action', 'Adventure', 'Sci-Fi']",7.3,15000,105.0,2018-02-16,68c5ef8574dae5ce78db6089
+Guardians of the Galaxy,"['Action', 'Adventure', 'Sci-Fi']",8.0,12000,95.0,2014-08-01,68c5ef8574dae5ce78db608a
+Deadpool,"['Action', 'Comedy']",8.0,13500,98.0,2016-02-12,68c5ef8574dae5ce78db608b
+Logan,"['Action', 'Drama']",8.1,11000,85.0,2017-03-03,68c5ef8574dae5ce78db608c
+Jumanji: Welcome to the Jungle,"['Action', 'Adventure', 'Comedy']",6.9,9500,80.0,2017-12-20,68c5ef8574dae5ce78db608d
+Wonder Woman,"['Action', 'Adventure', 'Fantasy']",7.4,10000,90.0,2017-06-02,68c5ef8574dae5ce78db608e
+Aquaman,"['Action', 'Adventure', 'Fantasy']",6.9,10500,88.0,2018-12-21,68c5ef8574dae5ce78db608f
+The Revenant,"['Action', 'Adventure', 'Drama']",8.0,9000,70.0,2015-12-25,68c5ef8574dae5ce78db6090
+Mad Max: Fury Road,"['Action', 'Adventure', 'Sci-Fi']",8.1,9500,92.0,2015-05-15,68c5ef8574dae5ce78db6091
+Star Wars: The Force Awakens,"['Action', 'Adventure', 'Sci-Fi']",7.8,20000,110.0,2015-12-18,68c5ef8574dae5ce78db6092
+Rogue One,"['Action', 'Adventure', 'Sci-Fi']",7.8,15000,100.0,2016-12-16,68c5ef8574dae5ce78db6093
+Solo: A Star Wars Story,"['Action', 'Adventure', 'Sci-Fi']",6.9,8000,70.0,2018-05-25,68c5ef8574dae5ce78db6094
+The Martian,"['Adventure', 'Drama', 'Sci-Fi']",8.0,13000,90.0,2015-10-02,68c5ef8574dae5ce78db6095
+Gravity,"['Drama', 'Sci-Fi', 'Thriller']",7.7,10000,80.0,2013-10-04,68c5ef8574dae5ce78db6096
+La La Land,"['Comedy', 'Drama', 'Music']",8.0,12000,85.0,2016-12-25,68c5ef8574dae5ce78db6097
+The Irishman,"['Biography', 'Crime', 'Drama']",7.8,9000,70.0,2019-11-01,68c5ef8574dae5ce78db6098
+Bird Box,"['Drama', 'Horror', 'Sci-Fi']",6.6,8000,75.0,2018-12-21,68c5ef8574dae5ce78db6099
+Roma,['Drama'],7.7,6500,60.0,2018-08-30,68c5ef8574dae5ce78db609a
+The Social Network,"['Biography', 'Drama']",7.7,9000,68.0,2010-10-01,68c5ef8574dae5ce78db609b
+Gone Girl,"['Drama', 'Mystery', 'Thriller']",8.1,11000,80.0,2014-10-03,68c5ef8574dae5ce78db609c
+The Big Short,"['Biography', 'Comedy', 'Drama']",7.8,9500,70.0,2015-12-11,68c5ef8574dae5ce78db609d
+Slumdog Millionaire,"['Drama', 'Romance']",8.0,9000,65.0,2008-11-12,68c5ef8574dae5ce78db609e
+12 Years a Slave,"['Biography', 'Drama', 'History']",8.1,8500,60.0,2013-10-18,68c5ef8574dae5ce78db609f
+The Hateful Eight,"['Crime', 'Drama', 'Mystery']",7.8,7000,55.0,2015-12-30,68c5ef8574dae5ce78db60a0
+Dunkirk,"['Action', 'Drama', 'History']",7.9,8000,65.0,2017-07-21,68c5ef8574dae5ce78db60a1
+Bohemian Rhapsody,"['Biography', 'Drama', 'Music']",7.9,12000,85.0,2018-10-24,68c5ef8574dae5ce78db60a2
+A Star Is Born,"['Drama', 'Music', 'Romance']",7.6,9500,70.0,2018-10-05,68c5ef8574dae5ce78db60a3

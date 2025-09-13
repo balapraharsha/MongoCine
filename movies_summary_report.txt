@@ -1,0 +1,19 @@
+
+===================== MOVIES DATA SUMMARY =====================
+
+Total Movies: 49
+Unique Genres: 16
+Release Date Range: 1972-03-24 to 2019-11-01
+
+Ratings:
+- Average Rating: 8.08
+- Highest Rating: 9.3
+- Lowest Rating: 6.6
+
+Popularity & Votes:
+- Average Popularity: 81.12
+- Most Voted Movie: Avengers: Endgame (25000 votes)
+
+Top Genre: Drama
+
+===============================================================
